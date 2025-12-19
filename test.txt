@@ -1,5 +1,0 @@
-another test
-API-key = dummy_value
-
-username = 'admin'
-AWS_KEY = 'AKIA1234567890ABCDE1'
