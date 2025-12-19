@@ -1,2 +1,4 @@
 another test
 API-key = dummy_value
+
+username = 'admin'
